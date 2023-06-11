@@ -174,23 +174,14 @@ footer{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 2px 10px;
+    padding: 10px;
 }
 
 .firstDivIncontainerDivInFooter img{
-    width: 20%;
+   height: 50px;
 }
 
 .secondDivIncontainerDivInFooter img{
-    width: 15px;
+    /*width: 15px;*/
+    height: 20px;   
 }
-
-.footerFlexing{
-    /*display: flex;*/
-    justify-content: space-between;
-    align-items: center;
-    /*padding: 2px 20px;*/
-    margin-right: auto;
-}
-/* The footer styling starts here */
-
